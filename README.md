@@ -22,4 +22,5 @@ Para ejecutar la aplicación localmente, sigue estos pasos:
 4. Ejecuta la aplicación con el siguiente comando el el bash:
    streamlit run app.py
 
-
+Puedes acceder a la aplicación desplegada en Render a través del siguiente enlace:
+https://sprint6-herramientas-de-desarrollo-de.onrender.com/
